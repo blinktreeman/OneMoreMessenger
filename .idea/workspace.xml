@@ -2,43 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa735819-e55b-4414-b06d-e2fc7024f64b" name="Changes" comment="one more messenger done">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OneMoreMessenger.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Messages/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Persons/ActionAbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Persons/ActionInterfaces/AddPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Persons/ActionInterfaces/BanPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Persons/ActionInterfaces/CreateMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Persons/ActionInterfaces/DeleteMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Persons/ActionInterfaces/DeletePerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Persons/ActionInterfaces/ReadMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Persons/ActionInterfaces/UpdateMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Persons/ActionsImplementation/AdminAddPersonImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Persons/ActionsImplementation/AdminBanPersonImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Persons/ActionsImplementation/AdminDeleteMessageImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Persons/ActionsImplementation/AdminDeletePersonImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Persons/ActionsImplementation/AdminReadMessageImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Persons/ActionsImplementation/AdminUpdateMessageImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Persons/ActionsImplementation/CreateMessageImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Persons/ActionsImplementation/ModeratorBanPersonImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Persons/ActionsImplementation/ModeratorDeleteMessageImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Persons/ActionsImplementation/ModeratorReadMessageImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Persons/ActionsImplementation/ModeratorUpdateMessageImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Persons/ActionsImplementation/UserDeleteMessageImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Persons/ActionsImplementation/UserReadMessageImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Persons/ActionsImplementation/UserUpdateMessageImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Persons/AdminActionFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Persons/ModeratorActionFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Persons/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Persons/UserActionFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Storage/Community.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Storage/MessageData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,6 +70,14 @@
       <option name="presentableId" value="Default" />
       <updated>1661762589992</updated>
     </task>
+    <task id="LOCAL-00001" summary="one more messenger done">
+      <created>1662031772555</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662031772555</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
