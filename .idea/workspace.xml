@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa735819-e55b-4414-b06d-e2fc7024f64b" name="Changes" comment="one more messenger done">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OneMoreMessenger.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Messages/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Persons/ActionAbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Persons/ActionInterfaces/AddPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Persons/ActionInterfaces/BanPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Persons/ActionInterfaces/CreateMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Persons/ActionInterfaces/DeleteMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Persons/ActionInterfaces/DeletePerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Persons/ActionInterfaces/ReadMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Persons/ActionInterfaces/UpdateMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Persons/ActionsImplementation/AdminAddPersonImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Persons/ActionsImplementation/AdminBanPersonImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Persons/ActionsImplementation/AdminDeleteMessageImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Persons/ActionsImplementation/AdminDeletePersonImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Persons/ActionsImplementation/AdminReadMessageImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Persons/ActionsImplementation/AdminUpdateMessageImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Persons/ActionsImplementation/CreateMessageImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Persons/ActionsImplementation/ModeratorBanPersonImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Persons/ActionsImplementation/ModeratorDeleteMessageImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Persons/ActionsImplementation/ModeratorReadMessageImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Persons/ActionsImplementation/ModeratorUpdateMessageImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Persons/ActionsImplementation/UserDeleteMessageImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Persons/ActionsImplementation/UserReadMessageImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Persons/ActionsImplementation/UserUpdateMessageImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Persons/AdminActionFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Persons/ModeratorActionFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Persons/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Persons/UserActionFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Storage/Community.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Storage/MessageData.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2E1USWaFBRxVPWGa8PUU6NT2tkl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH&quot;: &quot;200&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propGUI&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Persons" />
+      <recent name="Persons.ActionsImplementation" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="OneMoreMessenger" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa735819-e55b-4414-b06d-e2fc7024f64b" name="Changes" comment="" />
+      <created>1661762589992</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661762589992</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="one more messenger done" />
+    <option name="LAST_COMMIT_MESSAGE" value="one more messenger done" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
